@@ -1,2 +1,2 @@
-0 string school.mgc School
-!:SCHOOL
+0 string school.mgc School data
+!:file School
