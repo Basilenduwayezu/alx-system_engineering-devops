@@ -1,2 +1,2 @@
 #!/bin/bash
-chown basile hello
+chown betty hello
